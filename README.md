@@ -5,6 +5,8 @@ It involves analyzing the uploaded image of the patient and providing a **detail
 
 <img src="https://github.com/user-attachments/assets/839ddfd1-bed9-4fe9-99df-f1ad75094b47" width="200" height="200"/>
 
+<img src="https://github.com/user-attachments/assets/072b9dac-948e-4bb1-91a8-60c9a7378d72" width="200" height="200"/>
+
 _**Disclaimer: Please seek a medical professional before making any decisions.**_
 
 ## Setup:
