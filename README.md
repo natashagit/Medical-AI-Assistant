@@ -3,7 +3,7 @@ This application is a Medical AI assistant that gives an initial diagnosis of yo
 
 It involves analyzing the uploaded image of the patient and providing a detailed analysis and findings report of the image from a medical point of view.
 
-![Clinical-photograph-of-right-tongue-lesion-at-presentation-shows-an-ulcerated-tumour-with](https://github.com/user-attachments/assets/839ddfd1-bed9-4fe9-99df-f1ad75094b47 =250x250)
+<img src="https://github.com/user-attachments/assets/839ddfd1-bed9-4fe9-99df-f1ad75094b47" width="200" height="200"/>
 
 Disclaimer: Please seek a medical professional before making any decisions.
 
