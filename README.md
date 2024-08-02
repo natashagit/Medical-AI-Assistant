@@ -7,14 +7,14 @@ It involves analyzing the uploaded image of the patient and providing a detailed
 
 Disclaimer: Please seek a medical professional before making any decisions.
 
-Setup:
-1. Installation:
+## Setup:
+### 1. Installation:
 pip install -r requirements.txt
 
-2. Generate an API key:
+### 2. Generate an API key:
 Create a new API key, and place it in api_key.py
 https://aistudio.google.com/app/apikey
 
-Run application:
+## Run application:
 <br>
 streamlit run .\app.py
